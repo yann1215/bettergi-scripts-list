@@ -1,48 +1,57 @@
 {
   "info": {
-    "name": "浊水幻灵-轻策庄",
+    "name": "浊水幻灵-璃月1-轻策庄",
     "type": "collect",
     "author": "无狐",
-    "version": "1.0",
+    "version": "1.1",
     "description": "",
     "bgiVersion": "0.35.1"
   },
   "positions": [
     {
       "id": 1,
-      "action": "",
-      "move_mode": "walk",
-      "type": "teleport",
       "x": 547.736328125,
       "y": 1766.82861328125,
-      "action_params": ""
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "teleport"
     },
     {
       "id": 2,
-      "x": 543.0830078125,
-      "y": 1764.9072265625,
-      "type": "path",
-      "move_mode": "walk",
+      "x": 541.0830078125,
+      "y": 1763.9072265625,
       "action": "",
-      "action_params": ""
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "path"
     },
     {
       "id": 3,
-      "x": 494.146484375,
-      "y": 1783.1220703125,
-      "type": "path",
-      "move_mode": "walk",
+      "x": 488.6884765625,
+      "y": 1784.9755859375,
       "action": "",
-      "action_params": ""
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "path"
     },
     {
       "id": 4,
       "x": 475.3017578125,
       "y": 1789.1875,
-      "type": "path",
-      "move_mode": "walk",
+      "action": "stop_flying",
+      "move_mode": "fly",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 5,
+      "x": 475.3017578125,
+      "y": 1789.1875,
       "action": "fight",
-      "action_params": ""
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "path"
     }
   ]
 }
