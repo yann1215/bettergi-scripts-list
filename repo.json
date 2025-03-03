@@ -1,5 +1,5 @@
 {
-  "time": "20250228101545",
+  "time": "20250302211453",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -7,15 +7,6 @@
       "name": "pathing",
       "type": "directory",
       "children": [
-        {
-          "name": "奥藏山5只.json",
-          "type": "file",
-          "hash": "a7555a8b2c4d84beb515c95ae60990ad7680ceac",
-          "version": "a7555a8",
-          "author": "baixi",
-          "description": "",
-          "tags": []
-        },
         {
           "name": "沉玉仙茗",
           "type": "directory",
@@ -4839,15 +4830,6 @@
           ]
         },
         {
-          "name": "南天门3只.json",
-          "type": "file",
-          "hash": "ffd2f21911a53f200bc9e0219ec9f51bbcb276a0",
-          "version": "ffd2f21",
-          "author": "baixi",
-          "description": "",
-          "tags": []
-        },
-        {
           "name": "霓裳花",
           "type": "directory",
           "children": [
@@ -5959,15 +5941,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "庆云顶右1只.json",
-          "type": "file",
-          "hash": "c41d0caecc736af742aaeef3d9c0f8a8e621e7fb",
-          "version": "c41d0ca",
-          "author": "baixi",
-          "description": "",
-          "tags": []
         },
         {
           "name": "鳅鳅宝玉",
@@ -9763,24 +9736,6 @@
           ]
         },
         {
-          "name": "天衡山上3只.json",
-          "type": "file",
-          "hash": "81548efb5f5cd728d9645a2fb3dd1733dfeb8a1d",
-          "version": "81548ef",
-          "author": "baixi",
-          "description": "",
-          "tags": []
-        },
-        {
-          "name": "天遒谷7只.json",
-          "type": "file",
-          "hash": "da0acd0d560aa0e3bc1a7fa79f95a1e25a6928b9",
-          "version": "da0acd0",
-          "author": "baixi",
-          "description": "",
-          "tags": []
-        },
-        {
           "name": "天云草实",
           "type": "directory",
           "children": [
@@ -10459,15 +10414,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "雪葬之都3只.json",
-          "type": "file",
-          "hash": "439e2a9668dc97d688f519cfa3b76d5381716f5a",
-          "version": "439e2a9",
-          "author": "baixi",
-          "description": "",
-          "tags": []
         },
         {
           "name": "血斛",
@@ -21437,6 +21383,115 @@
           ]
         },
         {
+          "name": "沙脂蛹",
+          "type": "directory",
+          "children": [
+            {
+              "name": "1. 高成功率路线",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "沙脂蛹-1神的棋盘.json",
+                  "type": "file",
+                  "hash": "f28b14e8d36951b8a51b2c8ea7d1cc8b66a4b504",
+                  "version": "f28b14e",
+                  "author": "无狐",
+                  "description": "之前有些路径不太准确，修正了路径",
+                  "tags": [
+                    "沙脂蛹",
+                    "1. 高成功率路线"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2. 低成功率路线（路径识别易受沙暴干扰）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "沙脂蛹-2巨人峡谷（低成功率）.json",
+                  "type": "file",
+                  "hash": "1a38d1fa7b35c3cbe4507975811c8e842013b8e9",
+                  "version": "1a38d1f",
+                  "author": "无狐",
+                  "description": "之前有些路径不太准确，修正了路径",
+                  "tags": [
+                    "沙脂蛹",
+                    "2. 低成功率路线（路径识别易受沙暴干扰）"
+                  ]
+                },
+                {
+                  "name": "沙脂蛹-3塔尼特露营地（低成功率）.json",
+                  "type": "file",
+                  "hash": "2619609e75b181282d08f8f54f6cfd72884586f3",
+                  "version": "2619609",
+                  "author": "无狐",
+                  "description": "之前有些路径不太准确，修正了路径",
+                  "tags": [
+                    "沙脂蛹",
+                    "2. 低成功率路线（路径识别易受沙暴干扰）"
+                  ]
+                },
+                {
+                  "name": "沙脂蛹-4亡者狭廊2（低成功率）.json",
+                  "type": "file",
+                  "hash": "67dcadba38ea7e8f6b83847082266e9452a8eb01",
+                  "version": "67dcadb",
+                  "author": "无狐",
+                  "description": "修正了路径；多次下落改为一次下落，因为发现血量还挺健康的",
+                  "tags": [
+                    "沙脂蛹",
+                    "2. 低成功率路线（路径识别易受沙暴干扰）"
+                  ]
+                },
+                {
+                  "name": "沙脂蛹-4亡者狭廊（低成功率）.json",
+                  "type": "file",
+                  "hash": "407c79d57b18ce653a3565fb60a4eee04415bbb0",
+                  "version": "407c79d",
+                  "author": "无狐",
+                  "description": "",
+                  "tags": [
+                    "沙脂蛹",
+                    "2. 低成功率路线（路径识别易受沙暴干扰）"
+                  ]
+                },
+                {
+                  "name": "沙脂蛹-5三运河之地（低成功率）.json",
+                  "type": "file",
+                  "hash": "afe099c2d59bf194a1aa9b7ae8c74d444b249798",
+                  "version": "afe099c",
+                  "author": "无狐",
+                  "description": "修正了路径；邪恶的沙虫不要再撅我了",
+                  "tags": [
+                    "沙脂蛹",
+                    "2. 低成功率路线（路径识别易受沙暴干扰）"
+                  ]
+                },
+                {
+                  "name": "沙脂蛹-6折胫谷（低成功率）.json",
+                  "type": "file",
+                  "hash": "d3b84888bf804f1404b62c18de2d4b75c2fd3b26",
+                  "version": "d3b8488",
+                  "author": "无狐",
+                  "description": "修正了路径；小饶了一圈，避免进入战斗被蕈兽肘飞",
+                  "tags": [
+                    "沙脂蛹",
+                    "2. 低成功率路线（路径识别易受沙暴干扰）"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "沙脂蛹脚本说明.txt",
+              "type": "file",
+              "hash": "73aaaee9c59a19aa4b333072df8abeff47610c2f",
+              "version": "73aaaee",
+              "error": "Unexpected token 路 in JSON at position 0"
+            }
+          ]
+        },
+        {
           "name": "哨子&尖齿",
           "type": "directory",
           "children": [
@@ -26784,6 +26839,15 @@
           "tags": []
         },
         {
+          "name": "DoubleFriendshipEncounterPoints",
+          "type": "directory",
+          "hash": "cce0483c88323b2d3f04262e5286f730f728372e",
+          "version": "1.0",
+          "author": "起个名字好难的喵",
+          "description": "历练点双倍好感~|~进入好友尘歌壶，用历练点领取双倍好感",
+          "tags": []
+        },
+        {
           "name": "EncounterPoints",
           "type": "directory",
           "hash": "cae3570f0858ca9db650272ca072c143f7d45567",
@@ -27135,6 +27199,15 @@
           "tags": []
         },
         {
+          "name": "向右行走Xms",
+          "type": "directory",
+          "hash": "f0198f0e6ec09f9df8991ab838ecfccbab4e0b64",
+          "version": "1.0",
+          "author": "miludelongwang",
+          "description": "向右行走X毫秒~|~可以选择向右行走多少毫秒",
+          "tags": []
+        },
+        {
           "name": "向后行走5秒",
           "type": "directory",
           "hash": "5b352df3f3a2dc5952b02e099f289ad412c0bed4",
@@ -27418,6 +27491,20 @@
             "茜特菈莉",
             "蓝砚",
             "砂糖",
+            "芭芭拉"
+          ]
+        },
+        {
+          "name": "[锄大地]钟芙万芭(很稳).txt",
+          "type": "file",
+          "hash": "6f3e98c2b62ceefe5d660a2c927bc26ac0355b15",
+          "version": "6f3e98c",
+          "author": "maomao",
+          "description": "[记得打开独立任务重万叶吸材料]钟离,堆高充能和生命。芙宁娜,黄金剧团,不需要充能,堆高伤害。万叶,堆伤害和充能，建议风套+西风。芭芭拉,堆高生命,建议带金珀",
+          "tags": [
+            "钟离",
+            "芙宁娜",
+            "枫原万叶",
             "芭芭拉"
           ]
         },
@@ -27766,8 +27853,8 @@
         {
           "name": "宵宫队(优化版)[必看描述].txt",
           "type": "file",
-          "hash": "4ee68b5a40aeb66f787f1b54ef213c43e8944449",
-          "version": "4ee68b5",
+          "hash": "ff5acc32d9707ca3bd7a88e00e68eeb45e72cf1a",
+          "version": "ff5acc3",
           "author": "",
           "description": "",
           "tags": [
@@ -27822,6 +27909,20 @@
             "夜兰",
             "芙宁娜",
             "心海"
+          ]
+        },
+        {
+          "name": "心芙夜万.txt",
+          "type": "file",
+          "hash": "4f0af8868a92ff1663b1d92c3adc337644ceaf70",
+          "version": "4f0af88",
+          "author": "cc",
+          "description": "",
+          "tags": [
+            "心海",
+            "芙宁娜",
+            "夜兰",
+            "万叶"
           ]
         },
         {
@@ -27906,6 +28007,20 @@
             "云堇",
             "班尼特",
             "流浪者"
+          ]
+        },
+        {
+          "name": "火希芙班.txt",
+          "type": "file",
+          "hash": "ce0c87b59b8c31bef35fcb8e03ec096619987183",
+          "version": "ce0c87b",
+          "author": "",
+          "description": "玛薇卡，希诺宁，芙宁娜，班尼特",
+          "tags": [
+            "玛薇卡",
+            "希诺宁",
+            "芙宁娜",
+            "班尼特"
           ]
         },
         {
